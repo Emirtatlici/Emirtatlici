@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emirtatlici
 - 👀 I’m interested in Data Science & AI
-- I'm currently studying Statistics in Yıldız Technical University in Istanbul as a  3rd Grade student.
-- 🌱 I’m currently learning ML Algorithms and Data Scraping through Websites
+- I working as a Data Analytics Intern @B/S/H/
+- 🌱 I am studying Statisics @Yıldız Technical University
 - 📫 How to reach me --> (https://www.linkedin.com/in/emir-tatlici/)
 
 <!---
