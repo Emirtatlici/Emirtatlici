@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emirtatlici
 - 👀 I’m interested in Data Science & AI
-- I working as a Data Analytics Intern @B/S/H/
+- I am working as a Data Analytics Intern @B/S/H/
 - 🌱 I am studying Statisics @Yıldız Technical University
 - 📫 How to reach me --> (https://www.linkedin.com/in/emir-tatlici/)
 
